@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kaarten/2", {data:[{PC:"2"}],fetch:{},mutations:[]});
