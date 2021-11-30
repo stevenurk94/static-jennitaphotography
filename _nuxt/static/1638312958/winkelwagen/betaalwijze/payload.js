@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/winkelwagen/betaalwijze", {data:[{}],fetch:{},mutations:[]});
