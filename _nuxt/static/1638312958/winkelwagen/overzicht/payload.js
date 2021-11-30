@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/winkelwagen/overzicht", {data:[{}],fetch:{},mutations:[]});
